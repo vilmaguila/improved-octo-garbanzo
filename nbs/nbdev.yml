@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "improved-octo-garbanzo"
+  site-url: "https://vilmaguila.github.io/improved-octo-garbanzo"
+  description: "Improved Octo Garbanzo is a project to test the attributes of python library nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/vilmaguila/improved-octo-garbanzo"
