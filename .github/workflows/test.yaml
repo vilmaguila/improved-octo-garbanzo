@@ -8,4 +8,5 @@ jobs:
       - uses: fastai/workflows/nbdev-ci@master
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v4
+      - uses: node20
 
